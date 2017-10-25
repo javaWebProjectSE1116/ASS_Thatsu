@@ -233,7 +233,7 @@ input, button {
 .login__radito {
     height: 5rem;
     padding-top: 0.5rem;
-    
+
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
@@ -264,7 +264,7 @@ input, button {
 .login__row2 {
     height: 2rem;
     padding-top: 1rem;
-    
+
 }
 .signUp__submit {
     position: relative;
@@ -281,8 +281,84 @@ input, button {
     transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
 }
 
+.styleDivHead{
+    margin-top: 3px;
+    border-radius: 0.5rem;
+    background: pink;
+    width: 100%;
+    height: 50px;
+}
+.styleLogo{
+    float: left;
+    margin-top: 5px;
+    height: 40px;
+    width: 40px;
+    border: 1px solid #73AD21;
+    margin-left: 100px;
+}
+.styleImage{
+    margin-top: 4px;
+    margin-left: 4px;
+    width: 30px;
+    height: 30px;
+}
 
+.styleFindAndSubmitUserName{
+    float: left;
+    margin-top: 5px;
+    height: 40px;
+    width: 341px;
+    border: 1px solid #73AD21;
+    margin-left: 10px;
+}
+.styleFindUserName{
+    float: left;
+    height: 40px;
+    width: 304px;
+}
+.styleTextFindUsername{
+    color: #73AD21;
+    margin-left: 4px;
+    margin-top: 4px;
+    width: 300px;
+    height: 30px;
+}
+.styleSubmit{
+    float: right;
+    margin-top: 4px;
+    margin-right: 5px;
+    height: 30px;
+    width: 30px;
 
+}
+
+.styleProfile{
+    float: left;
+    margin-top: 5px;
+    height: 40px;
+    width: 90px;
+    border: 1px solid #73AD21;
+    margin-left: 300px;
+}
+
+.styleViewProfile{
+    float: left;
+    height: 40px;
+    width: 50px;
+}
+.styleHome{
+    margin-top: 4px;
+    float: right;
+    height: 40px;
+    width: 35px;
+}
+.styleSpand{
+    text-decoration: none;
+    margin-top: 4px;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
 
 
 @-webkit-keyframes animRipple {
