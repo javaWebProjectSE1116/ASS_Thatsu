@@ -5,7 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<link rel="stylesheet" type="text/css" href="loginCss.css">
+<link rel="stylesheet" type="text/css" href="headCss.css">
 <!DOCTYPE html>
 
 <div class="styleDivHead">
@@ -18,8 +18,8 @@
                 <input class="styleTextFindUsername" placeholder="Find" type="text" name="findUser"/>
             </div>
             <div class="styleSubmit" >
-                <button>
-                    <img src="image/find.png" width="30" height="30"/>
+                <button style="width: 30px;height: 30px;">
+                    <img src="image/find.png" width="29" height="27"/>
                 </button>
             </div>
 

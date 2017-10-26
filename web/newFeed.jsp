@@ -26,6 +26,86 @@ quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
 Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
 Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
 
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
+
+10.000 đại biểu sẽ dự Tuần lễ cấp cao APEC tại Đà Nẵng
+
+Sáng 17/10, UBND tỉnh Quảng Nam tổ chức họp báo thông tin về các sự kiện, hoạt động diễn ra tại địa phương trong khuôn khổ năm APEC Việt Nam 2017.
+
+quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec
+Chùa Cầu được tỉnh Quảng Nam chọn in tranh và mạ vàng tặng các bộ trưởng, trưởng đoàn tham dự Hội nghị Bộ trưởng tài chính diễn ra tại TP Hội An. Ảnh: Đắc Thành.
+Phó chủ tịch tỉnh Lê Văn Thanh bày tỏ Quảng Nam vinh dự được Chính phủ chọn là địa phương phối hợp tổ chức một số sự kiện, hoạt động. Trong đó quan trọng nhất là Hội nghị Bộ trưởng tài chính diễn ra từ ngày 19 đến 21/10 tại TP Hội An với khoảng 500 đại biểu.
 Ngoài ra, có nhiều hoạt động như chương trình tham quan dành cho phu nhân, phu quân các trưởng đoàn dự Tuần lễ cấp cao APEC 2017; chương trình Tiếng nói tương lai (VOF)...
 
 quang-nam-tang-30-buc-tranh-ma-vang-cho-dai-bieu-du-apec-1
