@@ -101,4 +101,13 @@ input, button {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
+.styleSetting{
+    float: right;
+    margin-top: 5px;
+    height: 40px;
+    width: 41px;
+    border: 1px solid #73AD21;
+    margin-right: 180px;
+}
+
 

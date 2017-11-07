@@ -41,6 +41,12 @@
 
     </div>
 
-
+    <div class="styleSetting">
+        <div class="styleViewProfile">
+            <button style="margin-top: 4px;margin-left: 4px;" onclick="window.location.href = 'index.jsp'">
+                <img style="width: 30px;height: 30px" src="image/setting.png"/>
+            </button>
+        </div>
+    </div>
 
 </div>
