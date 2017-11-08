@@ -51,8 +51,11 @@ public class CheckLogin extends HttpServlet {
         CheckAccountModal checkAccount = new CheckAccountModal();
         boolean check = checkAccount.checkLogin(username, password);
         if (check == true) {
+            data.Account account = checkAccount.getAccount(username);
             request.getSession().setAttribute("username", username);
-            response.sendRedirect("newjsp.jsp?check=nam");
+//            response.getWriter().print(checkAccount.getAccount(username));
+            request.getSession().setAttribute("account", account);
+            response.sendRedirect("profile.jsp?acc=" + username);
         } else {
             response.sendRedirect("CheckLogin?check=false");
         }

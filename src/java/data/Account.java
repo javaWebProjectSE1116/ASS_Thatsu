@@ -5,6 +5,8 @@
  */
 package data;
 
+import java.io.InputStream;
+
 /**
  *
  * @author NamNV
@@ -16,15 +18,59 @@ public class Account {
     private String sex;
     private String email;
     private String phoneNumber;
+    private String date;
+    private String image;
+    private String description;
 
-    public Account(String username, String name, String password, String sex, String email, String phoneNumber) {
+    public Account(String username, String name, String password, String sex, String email, String phoneNumber,String image) {
         this.username = username;
         this.name = name;
         this.password = password;
         this.sex = sex;
         this.email = email;
         this.phoneNumber = phoneNumber;
+        this.date=null;
+        this.image = image;
+        this.description = null;
     }
+
+    public Account(String username, String name, String password, String sex, String email, String phoneNumber, String date, String image, String description) {
+        this.username = username;
+        this.name = name;
+        this.password = password;
+        this.sex = sex;
+        this.email = email;
+        this.phoneNumber = phoneNumber;
+        this.date = date;
+        this.image = image;
+        this.description = description;
+    }
+    
+
+    public String getDate() {
+        return date;
+    }
+
+    public void setDate(String date) {
+        this.date = date;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+    
 
     public String getUsername() {
         return username;
@@ -72,6 +118,11 @@ public class Account {
 
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
+    }
+
+    @Override
+    public String toString() {
+        return this.email; //To change body of generated methods, choose Tools | Templates.
     }
 
 

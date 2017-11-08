@@ -17,25 +17,19 @@ import java.sql.SQLException;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
 /**
  *
  * @author NamNV
  */
 public class DbConnect {
 
-
-/**
- *
- * @author Admin
- */
-
-
     private static Connection connection = null;
 
     public static Connection getConnection() {
-        if (connection != null)
+        if (connection != null) {
             return connection;
-        else {
+        } else {
             try {
                 String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver"; //prop.getProperty("driver");
                 String url = "jdbc:sqlserver://localhost:1433;databaseName=Project";//prop.getProperty("url");
@@ -49,6 +43,14 @@ public class DbConnect {
                 e.printStackTrace();
             }
             return connection;
+        }
+    }
+
+    public static void main(String[] args) {
+        if (getConnection() == null) {
+            System.out.println("null");
+        } else {
+            System.out.println("ok");
         }
     }
 

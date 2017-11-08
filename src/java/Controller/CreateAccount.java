@@ -92,7 +92,7 @@ public class CreateAccount extends HttpServlet {
             request.getSession().setAttribute("checkUser", checkUser);
             response.sendRedirect("SignUp.jsp");
         } else {
-            Account account = new Account(username, name, password, sex, email, phoneNumberString);
+            Account account = new Account(username, name, password, sex, email, phoneNumberString,new GetImageDefault().getImageDefault());
             checkAccount.adddAccount(account);
             response.sendRedirect("SuccessSignUp.jsp");
         }
